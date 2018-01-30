@@ -1,0 +1,8 @@
+<?php
+phpinfo();
+<<<<<<< HEAD
+echo 12345;
+=======
+echo 12334;
+echo "m1";
+>>>>>>> m1
